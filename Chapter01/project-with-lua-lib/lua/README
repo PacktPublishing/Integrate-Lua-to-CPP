@@ -1,0 +1,12 @@
+Copy from Lua source code folder:
+```
+.
+|--include
+    |--lua.h
+    |--luaxlib.h
+    |--lualib.h
+    |--luaconf.h
+    |--lua.hpp
+|--lib
+    |--liblua.a
+```
